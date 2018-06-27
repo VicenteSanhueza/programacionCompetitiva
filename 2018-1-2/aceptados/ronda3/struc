@@ -1,0 +1,6 @@
+struct Punto{
+	float x,y,z;
+	string color;
+
+	Punto(float x1, float y2, float 3)		
+};
